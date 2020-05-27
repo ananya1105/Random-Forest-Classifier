@@ -12,7 +12,7 @@ Target Variable = 'class'
 Concepts Used:
 1. Missing Data Analysis : Missingno library in python
 2. Data Normalization: MinMaxScaler: https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02
-3. Data Comparison using subplots: 
+3. Data Comparison using subplots: https://www.youtube.com/watch?v=Ql8QPcp8818
 4. Random Forest Classifier: Random Forest - https://www.youtube.com/watch?v=J4Wdy0Wc_xQ, Decision Tree/Gini Index - https://www.youtube.com/watch?v=7VeUPuFGJHk, Decision Tree/Feature Selection and Missing Data - https://www.youtube.com/watch?v=wpNl-JwwplA
 
 5. classification_score(evaluation),confusion_magtrix(evaluation): https://drive.google.com/drive/folders/1cstwpF9PAX0eRmCuXA3ffrsq0S3pi4S0
